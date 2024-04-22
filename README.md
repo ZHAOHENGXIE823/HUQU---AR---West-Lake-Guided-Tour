@@ -1,5 +1,5 @@
 # HUQU---AR---West-Lake-Guided-Tour
-VR Sand Table Project of West Lake by Two Individuals
+AR Sand Table Project of West Lake by Two Individuals
 
 Project Name: AR West Lake Guided Sand Table
 Project Overview:
