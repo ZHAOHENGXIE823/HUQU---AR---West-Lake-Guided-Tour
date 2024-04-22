@@ -208,7 +208,7 @@ process display,
 1. Blender material construction, the sand table material is divided into two circles, the inner circle is mainly based on the map and the actual investigation of the route is built on the floating green floating island, through the expansion of a single stone UV and shader editing to restore the stylized display of the stone, after the stone is edited according to the real map location of the terrain, and then the map key node coordinates are built. The outer ring focuses on showing the characteristics of West Lake. The intention of the West Lake, such as lotus flowers and lotus leaves, is built with a series of landscapes, showing the characteristics of the West Lake sand table.
 
 
-2. Import the model into Unity for editing, adjust the effect and texture modification (123456789) of the model in Blender, and then write the part of the program
+2. Import the model into Unity for editing, adjust the effect and texture modification  of the model in Blender, and then write the part of the program
 
 
 
