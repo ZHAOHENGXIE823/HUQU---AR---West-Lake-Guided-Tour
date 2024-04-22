@@ -10,9 +10,9 @@ We have carefully selected five specific locations from the ten renowned scenic 
 The "AR Guided Sand Table of West Lake" is designed based on the geographical features of West Lake, incorporating a visual style inspired by gaming aesthetics and traditional Chinese elements. It features an AR geographical sand table that showcases the distinctive information about West Lake. Suspended above the sand table are icon markers representing the selected interactive locations, which allow participants to interact with the sand table as a whole or with individual icons to access information and guided content related to Su Shi's stories. The aim is to provide participants with an enhanced guided tour experience.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422050600.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422050600.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422050600.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/1.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/1.jpg">
 </picture>
 
 Feature 1: West Lake Map Guided Tour
@@ -30,9 +30,9 @@ Determine and refine the plan in the early stage, make textures for the model in
 In the early stage, the project planned green plants and pets, and designed a variety of interaction and play modes, starting from social issues, determined to make a more complete expression and interpretation, and integrate expression into new gameplay
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422071550.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422071550.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422071550.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/2.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/2.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/2.png">
 </picture>
 
 # Project features:
@@ -45,17 +45,17 @@ Guided tour overview: Locations: 1, Musical Fountain, ----, 2, Three Pools, Refl
 The West Lake AR sand table plans a route for the experiencer, navigates according to the experiencer's coordinates, and can interact with the West Lake sand table.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422075216.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422075216.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422075216.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/3.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/3.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/3.jpg">
 </picture>
 
 Supplement and modify the plan according to the feedback from the first report
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422081402.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422081402.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422081402.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/4.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/4.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/4.jpg">
 </picture>
 
 
@@ -74,9 +74,9 @@ This project takes Su Shi's first perspective to experience and visit the West L
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422082913.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422082913.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422082913.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/5.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/5.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/5.jpg">
 </picture>
 
 
@@ -99,9 +99,9 @@ The output of the corresponding entity can identify the AR interaction around th
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422200325.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422200325.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422200325.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/6.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/6.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/6.jpg">
 </picture>
 
 
@@ -115,9 +115,9 @@ The output of the corresponding entity can identify the AR interaction around th
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422204818.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422204818.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422204818.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/7.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/7.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/7.jpg">
 </picture>
 
 
@@ -140,22 +140,22 @@ The output of the corresponding entity can identify the AR interaction around th
 ### Task 2: Plan the storyboard and video interpretation logic in advance
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422212053.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422212053.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422212053.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/8.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/8.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/8.jpg">
 </picture>
 
 
 ### Task 3: Shoot live action footage and edit it in post (shots, insert special effects, display effects, paths, sound effect text, etc.) Use compositing software to show the final effect of the tour AR.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422212949.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422212949.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422212949.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/9.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/9.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/9.png">
 </picture>
 
 
-# Project Milestone aaaa
+# Project Milestone 
 Divide the project timeline into milestones, each representing a key phase or milestone of the project. Set deadlines for each milestone and list the expected outcomes or deliverables after each milestone.
 1. Milestone 1 (3.20): Finalize the specific plan after consultation with the teacher
 • Expected Result 1: The four people from West Lake are divided into two teams and are responsible for two projects.
@@ -171,9 +171,9 @@ Divide the project timeline into milestones, each representing a key phase or mi
 Expected Result 3: Zoom in, gesture recognition part of the Holokit SDK, plug-ins
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422213423.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422213423.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422213423.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/10.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/10.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/10.png">
 </picture>
 
 
@@ -182,3 +182,46 @@ Expected Result 3: Zoom in, gesture recognition part of the Holokit SDK, plug-in
 • Expected Result 2: Demonstrate the interaction between people in the field and the sand table
 • Expected accomplishment 3: Partial vision of long-term planning articulated
 • Expected Result 4: West Lake is represented through AR projects
+
+
+# Risks and challenges
+Identify possible risks and challenges and provide strategies to address them. This can help others understand the potential issues facing the project and demonstrate your competence in project management and risk management.
+Communication and feedback
+Provide a communication channel for the project's Roadmap and encourage others to provide feedback, suggestions, and opinions. You can provide your contact information or create a dedicated discussion area on GitHub.
+1. Stepping into a new field and non-specialization, as an art student who has never been exposed to development and code before, we need to spend more time and energy on areas that we are not good at before for the uncertainty of development projects.
+2. Communicate and learn code, and consider things and projects with the way of thinking of programmers when developing.
+3. For the control of applicable scenarios and effects, AR projects have limitations on water surface recognition and changes to moving objects, making the project itself full of uncertainty.
+4. The challenge of environmental scanning, due to the large number of tourists in the West Lake Scenic Area and most of them are mainly natural landscapes, the scanning is not clear to the plants, and the occlusion of tourists makes the scanning work more difficult.
+Update history
+
+# Version history
+v1.0.0 (2024-03-25): Initial release established
+v1.1.0 (2024-03-28): Added new model (improved model inner circle)
+v1.2.0 (2024-04-09): Initial version created
+v1.3.0 (2024-04-10): Added UI interface
+v1.4.0 (2024-04-14): Demo test version
+v1.5.0 (2024-04-16): Demo Completed Version
+v1.5.1 (2024-04-16): Added a gesture interaction version
+
+
+process display,
+1. Blender material construction, the sand table material is divided into two circles, the inner circle is mainly based on the map and the actual investigation of the route is built on the floating green floating island, through the expansion of a single stone UV and shader editing to restore the stylized display of the stone, after the stone is edited according to the real map location of the terrain, and then the map key node coordinates are built. The outer ring focuses on showing the characteristics of West Lake. The intention of the West Lake, such as lotus flowers and lotus leaves, is built with a series of landscapes, showing the characteristics of the West Lake sand table.
+
+
+2. Import the model into Unity for editing, adjust the effect and texture modification (123456789) of the model in Blender, and then write the part of the program
+
+
+
+
+3. Make the UI interface, first draw a plane according to the five map directions and nodes. Next, build in Blender, draw textures for the model, and bind the model.
+4. Drop the UI to Unity to add scripts, and add gesture interaction and gesture recognition
+5. Arrive at the site for shooting, shoot videos and demonstrate actual cameras according to the drawn storyboard and weather conditions
+6. Edit and compose the captured video, as well as dubbing, import a single piece of footage into AE for video tracking, add a mask to the video footage and bind the tracking position, adjust the angle and perspective, and mask the coincident part for K frames
+Integrate the relationship between the environment and people and demonstrate ways to interact.
+
+<picture>
+ <source media="(prefers-color-scheme: dark)"https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/11.jpg">
+ <source media="(prefers-color-scheme: light)" https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/11.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/ZHAOHENGXIE823/HUQU---AR---West-Lake-Guided-Tour/blob/main/tupian/11.jpg">
+</picture>
+
