@@ -185,9 +185,6 @@ Expected Result 3: Zoom in, gesture recognition part of the Holokit SDK, plug-in
 
 
 # Risks and challenges
-Identify possible risks and challenges and provide strategies to address them. This can help others understand the potential issues facing the project and demonstrate your competence in project management and risk management.
-Communication and feedback
-Provide a communication channel for the project's Roadmap and encourage others to provide feedback, suggestions, and opinions. You can provide your contact information or create a dedicated discussion area on GitHub.
 1. Stepping into a new field and non-specialization, as an art student who has never been exposed to development and code before, we need to spend more time and energy on areas that we are not good at before for the uncertainty of development projects.
 2. Communicate and learn code, and consider things and projects with the way of thinking of programmers when developing.
 3. For the control of applicable scenarios and effects, AR projects have limitations on water surface recognition and changes to moving objects, making the project itself full of uncertainty.
