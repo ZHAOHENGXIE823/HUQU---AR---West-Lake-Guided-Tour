@@ -223,13 +223,6 @@ Integrate the relationship between the environment and people and demonstrate wa
 </picture>
 
 
-# Risks and Challenges
-
-1. Stepping into a new field and being non professional, as an art student who has never been exposed to development and coding before, we need to spend more time and energy investing in areas we were not good at before when it comes to the uncertainty of development projects.
-2. Communication and learning of code, considering things and projects in a programmer's way of thinking during development.
-3. For the control of applicable scenarios and effects, the AR project has limitations in identifying water surfaces and changing moving objects, making the project itself full of uncertainty.
-4. The challenge of environmental scanning is that due to the large number of tourists in the West Lake scenic area, which are mainly natural landscapes, the scanning of plants is not clear, and the occlusion of tourists makes the scanning work more difficult.
-
 
 
 # contact
