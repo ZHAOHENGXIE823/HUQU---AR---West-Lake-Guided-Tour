@@ -231,3 +231,9 @@ Integrate the relationship between the environment and people and demonstrate wa
 4. The challenge of environmental scanning is that due to the large number of tourists in the West Lake scenic area, which are mainly natural landscapes, the scanning of plants is not clear, and the occlusion of tourists makes the scanning work more difficult.
 
 
+
+# contact
+
+If you have any questions or project inquiries, please feel free to contact us 2639002106@qq.com ，Looking forward to hearing your message and feedback~
+
+
